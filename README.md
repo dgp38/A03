@@ -1,25 +1,25 @@
 Web development 
 Git: its allows users to view and edit source code.
 
-	User can install from this link: - https://git-scm.com/downloads (mac and windows user can find software from this link)
+  	User can install from this link: - https://git-scm.com/downloads (mac and windows user can find software from this link)
 
 Webstorm: allowed user to edit a GitHub code directly. Download webstorm from: https://www.jetbrains.com/webstorm/
 
 GitHub: GitHub is a web-based for version control. Git software make more comfortable to work with other people. Team members can work together on one file and can make changes on the file of the project. 
 
-	Need to create GitHub account to connect with Git and webstorm.
+   	Need to create GitHub account to connect with Git and webstorm.
 
 Repository:  repository stores all files (as the computer save to file) of the program and allows all users to have access to the files and edit them.
 
  Steps to create repository:
 
-	In GitHub website, click the “new” on the home page “new” button was on the left side of the screen 
+  	In GitHub website, click the “new” on the home page “new” button was on the left side of the screen 
 
-	Give a name to repository.
+  	Give a name to repository.
 
-	After that checkbox for to create repository as README page.
+  	After that checkbox for to create repository as README page.
 
-	Finally press “create repository” button.
+  	Finally press “create repository” button.
 
 Clone: recreate source code from one system to another.
 
