@@ -9,9 +9,7 @@ GitHub: GitHub is a web-based for version control. Git software make more comfor
         Team members can work together on one file and can make changes on the file of the project. 
 	      Need to create GitHub account to connect with Git and webstorm.
 
-Repository: repository stores all files (as the computer save to file) of the program and allows all users 
-            to have access to the files and edit them.
-
+Repository: repository stores all files (as the computer save to file) of the program and allows all users to have access to the files and edit them.
 Steps to create repository:
     	In GitHub website, click the “new” on the home page “new” button was on the left side of the screen 
     	Give a name to repository.
